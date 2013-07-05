@@ -6,14 +6,12 @@ jQuery library for converting simple buttons and elements into file selection bo
 Usage
 =====
 
-Download the add the `jquery-file.js` file to your HTML document:
+Download the add the `jquery-file.js` file to your HTML document (note the dependency on jQuery):
 
 ```html
 <script src="http://code.jquery.com/jquery-1.10.2.min.js" type="text/javascript"></script>
 <script src="jquery-file.js" type="text/javascript"></script>
 ```
-
-Note the dependency on jQuery.
 
 Next, create the DOM element you wish to use as the trigger button of the file selection:
 
